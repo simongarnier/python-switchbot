@@ -1,8 +1,8 @@
 from typing import List
 
-from switchbot.client import SwitchBotClient
-from switchbot.devices import Device
-from switchbot.remotes import Remote
+from switchbot_not_colliding.client import SwitchBotClient
+from switchbot_not_colliding.devices_not_colliding import Device
+from switchbot_not_colliding.remotes import Remote
 
 __version__ = "2.2.3"
 

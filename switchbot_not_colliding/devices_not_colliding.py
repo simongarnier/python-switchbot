@@ -4,7 +4,7 @@ from typing import Any, ClassVar, Dict, List, Optional
 
 import humps
 
-from switchbot.client import SwitchBotClient
+from switchbot_not_colliding.client import SwitchBotClient
 
 status_key_mapping = {
     "power": "power",
